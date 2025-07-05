@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Atom</title>
+    <link>https://atomwalk12.github.io/tags/</link>
+    <description>Recent content in Tags on Atom</description>
+    <image>
+      <title>Atom</title>
+      <url>https://atomwalk12.github.io/images/papermod-cover.png</url>
+      <link>https://atomwalk12.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <managingEditor>atomwalk@duck.com (Vasile, Razvan Florian)</managingEditor>
+    <webMaster>atomwalk@duck.com (Vasile, Razvan Florian)</webMaster>
+    <copyright>2025 Atom</copyright>
+    <lastBuildDate>Tue, 10 Jun 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atomwalk12.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataset</title>
+      <link>https://atomwalk12.github.io/tags/dataset/</link>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <guid>https://atomwalk12.github.io/tags/dataset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://atomwalk12.github.io/tags/linear-algebra/</link>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <guid>https://atomwalk12.github.io/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reasoning</title>
+      <link>https://atomwalk12.github.io/tags/reasoning/</link>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <guid>https://atomwalk12.github.io/tags/reasoning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
