@@ -14,19 +14,26 @@
     <managingEditor>atomwalk@duck.com (Vasile, Razvan Florian)</managingEditor>
     <webMaster>atomwalk@duck.com (Vasile, Razvan Florian)</webMaster>
     <copyright>2025 Atom</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://atomwalk12.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LinAlgZero: A linear algebra dataset for reasoning</title>
       <link>https://atomwalk12.github.io/posts/lingalgzero/linalgzero/</link>
-      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <pubDate>Sat, 05 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
       <guid>https://atomwalk12.github.io/posts/lingalgzero/linalgzero/</guid>
       <description>A toolkit for generating a linear algebra dataset and training models for linear algebra reasoning.</description>
     </item>
     <item>
+      <title>LinAlgZero: Literature Review</title>
+      <link>https://atomwalk12.github.io/posts/lingalgzero/literature/</link>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <guid>https://atomwalk12.github.io/posts/lingalgzero/literature/</guid>
+      <description>A review of existing approaches to training LLMs for math reasoning.</description>
+    </item>
+    <item>
       <title>LinAlgZero: Theory</title>
       <link>https://atomwalk12.github.io/posts/lingalgzero/theory/</link>
-      <pubDate>Sun, 08 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <pubDate>Fri, 04 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
       <guid>https://atomwalk12.github.io/posts/lingalgzero/theory/</guid>
       <description>A toolkit for generating a linear algebra dataset and training models for linear algebra reasoning.</description>
     </item>

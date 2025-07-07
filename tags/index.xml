@@ -14,27 +14,34 @@
     <managingEditor>atomwalk@duck.com (Vasile, Razvan Florian)</managingEditor>
     <webMaster>atomwalk@duck.com (Vasile, Razvan Florian)</webMaster>
     <copyright>2025 Atom</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://atomwalk12.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dataset</title>
       <link>https://atomwalk12.github.io/tags/dataset/</link>
-      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
       <guid>https://atomwalk12.github.io/tags/dataset/</guid>
       <description></description>
     </item>
     <item>
       <title>Linear Algebra</title>
       <link>https://atomwalk12.github.io/tags/linear-algebra/</link>
-      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
       <guid>https://atomwalk12.github.io/tags/linear-algebra/</guid>
       <description></description>
     </item>
     <item>
       <title>Reasoning</title>
       <link>https://atomwalk12.github.io/tags/reasoning/</link>
-      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
       <guid>https://atomwalk12.github.io/tags/reasoning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://atomwalk12.github.io/tags/review/</link>
+      <pubDate>Sun, 06 Jul 2025 10:00:00 +0000</pubDate><author>atomwalk@duck.com (Vasile, Razvan Florian)</author>
+      <guid>https://atomwalk12.github.io/tags/review/</guid>
       <description></description>
     </item>
   </channel>
